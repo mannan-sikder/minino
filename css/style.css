@@ -1,0 +1,205 @@
+*{
+	margin: 0;
+	padding: 0;
+
+}
+.container{
+	width: 90%;
+	margin: auto;
+	overflow: hidden;
+}
+img{
+	max-width: 100%;
+}
+h2{
+    margin: 21px auto;
+    /* padding-top: 10px; */
+    /* padding-bottom: 10px; */
+    font-size: 40px;
+    color: #000;
+    }
+
+h3{
+    margin: 22px 0;
+    color: #c1babaad;}
+p{
+width: auto;
+text-align: justify;
+font-size: 18px;
+}
+/* hr{
+    width: 32%;
+    margin: auto;
+    border: 1px solid; */
+}
+.header_section{
+
+}
+.header-left{
+	width: 20%;
+	float: left;
+}
+.header-logo{
+
+}
+.header-right{
+	width: 80%;
+	float: right;
+
+}
+.header-menu{}
+.header-menu ul{
+    display: inline-block;
+    float: right;
+}
+.header-menu ul li{
+    display: inline-block;
+    margin-right: 20px;
+}
+.header-menu ul li a{
+    text-decoration: none;
+    color: #000;
+    padding: 10px;
+    font-size: 24px;
+    line-height: 2;
+}
+.header-menu ul li a:hover{
+
+}
+.banner-section{}
+.banner{}
+.banner img{
+    object-fit: cover;
+    width: 100%;
+}
+.about-section{
+    width: 90%;
+    margin: 10px auto;
+}
+.about-content{
+    text-align: left;
+    margin-top: 31px;
+}
+.about-content h3{
+    margin: 22px 0;
+    color: #c1babaad;
+}
+.about-content h2{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 40px;
+		/* color: rebeccapurple; */
+}
+.features-section{
+    background-color: rgb(141, 117, 120);
+}
+.features-title{
+    margin: 20px auto;
+}
+.features-title h2 {
+    font-size: 40px;
+    text-align: center;
+    margin: 20px auto;
+}
+.features-title p {
+    width: 60%;
+    margin: 10px auto;
+}
+.features-item{
+    width: 100%;
+}
+.features-box{
+	padding: 17px;
+	width: 50%;
+	float: left;
+	box-sizing: border-box;
+}
+
+.optin_section{
+		background-color: #e7e5e5;
+		height: 230px;
+}
+.newsletter-title{
+    text-align: center;
+    margin: auto;
+}
+form{margin-top: 22px;}
+input[type=email]{
+font-size: 30px;
+margin: 20px;
+box-sizing: border-box;
+padding: 10px;
+border: none;
+border-bottom: 2px solid #888;
+background: #e7e5e5;
+}
+.newsletter-title h2{}
+.testimonilas-section{
+    width: 90%;
+    margin: 10px auto;
+}
+.button_area {
+    margin: 0 auto;
+    position: relative;
+    bottom: 0px;
+    left: 44%;
+}
+.button {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+
+  .button1 {
+    background-color: white;
+    color: black;
+    border: 2px solid #121312;
+  }
+.button-area a{
+    text-decoration: none;
+    text-align: center;
+    color: #000;
+}
+.footerSection{
+    background: #bdbaba;
+}
+.footer_title{
+    width: 50%;
+    float: left;
+    margin: 10px auto;
+}
+.footer_title p{
+margin: 10px 20px;
+}
+
+.footer_title p span{
+margin-left: 20px;
+}
+.fmenu{
+    width: 50%;
+    float:right;
+    text-align: right;
+}
+.fmenu ul{
+    list-style: none;
+    display: inline-block;
+}
+.fmenu ul li{
+    display: inline-block;
+    /* margin-right: 24px; */
+    margin: 14px;
+    font-size: 24px;
+}
+.fmenu ul li a{
+    text-decoration: none;
+    color: #000;
+
+}
+.fmenu ul li a:hover{}
